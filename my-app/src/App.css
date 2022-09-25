@@ -1,0 +1,40 @@
+body{
+  font-family: 'Poppins';
+  margin: 0;
+ 
+}
+
+.navbar{
+  background-color: #FF4F5A;
+
+}
+
+.navbar-brand{
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.save{
+  background-color: #FF4F5A;
+  color: #ffffff;
+}
+
+.cancel{
+  background-color: #ffffff;
+  color: #FF4F5A;
+  border-color: #FF4F5A;
+}
+
+.percentage{
+  color:#FF4F5A;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.brdr{
+  border-color: #FF4F5A;
+  border: 1px solid #FF4F5A;
+  border-radius: 9px;
+}
